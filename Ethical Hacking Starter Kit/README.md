@@ -1,6 +1,6 @@
 # Ethical Hacking Starter Kit Bundle
 
-[1_Practical Linux for Pentesting & Bug Bounties](Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/1_Practical%20Linux%20for%20Pentesting%20&%20Bug%20Bounties%20d8b65f44ce384a0890c47b4851f4623d.md)
+[1_Practical Linux for Pentesting & Bug Bounties](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/1_Practical%20Linux%20for%20Pentesting%20%26%20Bug%20Bounties%20d8b65f44ce384a0890c47b4851f4623d)
 
 [2_Deep Web Cybersecurity](Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/2_Deep%20Web%20Cybersecurity%20f7a6dad7cf1d43c3bb8d281dba897a90.md)
 
