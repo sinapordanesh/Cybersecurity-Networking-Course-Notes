@@ -1,4 +1,5 @@
 # Cybersecurity and Networking Course Notes
+![_096643f5-ded1-4182-96ba-bb463bc54c45](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/ba81221b-7f2a-4f7b-a31e-2f902890b6ee)
 
 Welcome to the Cybersecurity and Networking Course Notes repository! This repository contains a comprehensive collection of notes, resources, and materials from various cybersecurity and networking courses. Whether you're a beginner starting your journey in the field or an experienced professional looking to expand your knowledge, you'll find valuable information and insights here.
 
