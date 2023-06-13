@@ -1,10 +1,10 @@
 # Ethical Hacking Starter Kit Bundle
 
-[1_Practical Linux for Pentesting & Bug Bounties](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/1_Practical%20Linux%20for%20Pentesting%20%26%20Bug%20Bounties%20d8b65f44ce384a0890c47b4851f4623d)
+[1_Practical Linux for Pentesting & Bug Bounties](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/1_Practical%20Linux%20for%20Pentesting%20%26%20Bug%20Bounties)
 
-[2_Deep Web Cybersecurity](Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/2_Deep%20Web%20Cybersecurity%20f7a6dad7cf1d43c3bb8d281dba897a90.md)
+[2_Deep Web Cybersecurity](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/2_Deep%20Web%20Cybersecurityd)
 
-[3_Practical Network Penetration Testing](Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/3_Practical%20Network%20Penetration%20Testing%20ab3b059b232745ac8576a1f1c361b0d8.md)
+[3_Practical Network Penetration Testing](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/3_Practical%20Network%20Penetration%20Testing)
 
 [4_Hands-on Penetration Testing with Netcat](Ethical%20Hacking%20Starter%20Kit%20Bundle%205ebbf97ca3ac4c4793a5f8ce3c125d88/4_Hands-on%20Penetration%20Testing%20with%20Netcat%200b4f587f9c814564a6c52e613fe02d82.md)
 
