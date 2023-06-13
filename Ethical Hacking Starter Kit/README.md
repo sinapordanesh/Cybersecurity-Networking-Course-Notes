@@ -2,7 +2,7 @@
 
 [1_Practical Linux for Pentesting & Bug Bounties](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/1_Practical%20Linux%20for%20Pentesting%20%26%20Bug%20Bounties)
 
-[2_Deep Web Cybersecurity](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/2_Deep%20Web%20Cybersecurityd)
+[2_Deep Web Cybersecurity](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/2_Deep%20Web%20Cybersecurity)
 
 [3_Practical Network Penetration Testing](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/3_Practical%20Network%20Penetration%20Testing)
 
