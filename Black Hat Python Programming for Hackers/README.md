@@ -1,4 +1,5 @@
 # Black Hat Python Notes
+<img width="778" alt="Screenshot 2023-06-13 at 10 12 18 PM" src="https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/b2b9dc4e-edec-45af-a3f6-4502e2ef64fc">
 
 This repository contains my personal notes, modifications, and summaries for the book "Black Hat Python" by Justin Seitz. Please note that while these notes are based on the book's content, they are my own personal effort and should not be considered a direct copy of the original material.
 
@@ -16,18 +17,7 @@ You can find the notes for each chapter in their respective folders. Each chapte
 
 It is important to note that these notes are not meant to replace the original book. I highly recommend purchasing and reading "Black Hat Python" to fully grasp the concepts and examples discussed. These notes serve as a supplement to the book, providing a condensed version for quick reference and additional insights.
 
-## Contribution
-
-While these notes are primarily based on my own understanding and interpretation of the book's content, I welcome contributions and suggestions from others who have read "Black Hat Python". If you have any feedback, improvements, or corrections to the notes, please feel free to open an issue or submit a pull request.
-
-## Disclaimer
-
-I am not responsible for any misuse of the information provided in these notes. The techniques and examples described in "Black Hat Python" can be powerful tools, but they should be used responsibly and ethically. Always ensure that you have proper authorization and permission before conducting any activities that may violate applicable laws or compromise the security of systems.
-
-## License
-
-The content of this repository, including my personal notes, modifications, and summaries, is licensed under [MIT License](LICENSE). However, please note that the original book "Black Hat Python" has its own copyright and licensing terms, and you should refer to the book's official sources for any questions regarding its use and distribution.
-
+## Table of Contents 
 
 [Chapter 1: Setting Up Your Python Environment](Black%20Hat%20Python%20Programming%20for%20Hackers%20675108fce2854cacb31c79eef95735c2/Chapter%201%20Setting%20Up%20Your%20Python%20Environment%202905472e48304e7e972001f370bfc1be.md)
 
