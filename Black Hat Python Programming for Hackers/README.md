@@ -13,6 +13,9 @@ Advantages of using these notes:
 
 - Ease of Understanding: The notes are organized logically and presented in a reader-friendly format to make complex topics easier to grasp.
 
+# Code Repository
+You'll find all codes and .py files, including explenation section by section for each one on the following [repository](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat). 
+
 ## Disclaimer
 
 **I do not claim ownership of the original book "Black Hat Python"**. All credit for the content and ideas goes to the author, Justin Seitz. This repository is intended for educational purposes only, to help others understand and learn from the concepts discussed in the book.
