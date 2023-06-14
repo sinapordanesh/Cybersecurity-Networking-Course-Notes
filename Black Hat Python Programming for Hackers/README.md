@@ -1,7 +1,17 @@
 # Black Hat Python Notes
 <img width="778" alt="Screenshot 2023-06-13 at 10 12 18 PM" src="https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/b2b9dc4e-edec-45af-a3f6-4502e2ef64fc">
 
-This repository contains my personal notes, modifications, and summaries for the book "Black Hat Python" by Justin Seitz. Please note that while these notes are based on the book's content, they are my own personal effort and should not be considered a direct copy of the original material.
+Welcome to my repository of personal notes, modifications, and summaries for the book "Black Hat Python" by Justin Seitz. These notes are a result of my own effort to condense the material and add personal insights.
+
+Advantages of using these notes:
+
+- Concise Summaries: Get a condensed version of each chapter, highlighting the key concepts and techniques.
+
+- Personal Insights: Benefit from my additional explanations, alternative perspectives, and real-world examples.
+
+- Code Snippets and References: Find relevant code examples and references to the original book for practical application.
+
+- Ease of Understanding: The notes are organized logically and presented in a reader-friendly format to make complex topics easier to grasp.
 
 ## Disclaimer
 
