@@ -13,7 +13,13 @@ Advantages of using these notes:
 
 - Ease of Understanding: The notes are organized logically and presented in a reader-friendly format to make complex topics easier to grasp.
 
-# Code Repository
+## Table of Contents 
+
+[Chapter 1: Setting Up Your Python Environment](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%201%20Setting%20Up%20Your%20Python%20Environment.md)
+
+[Chapter 2: Basic Networking Tools ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%202%20Basic%20Networking%20Tools.md)
+
+## Code Repository
 You'll find all codes and .py files, including explenation section by section for each one on the following [repository](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat). 
 
 ## Disclaimer
@@ -30,8 +36,3 @@ You can find the notes for each chapter in their respective folders. Each chapte
 
 It is important to note that these notes are not meant to replace the original book. I highly recommend purchasing and reading "Black Hat Python" to fully grasp the concepts and examples discussed. These notes serve as a supplement to the book, providing a condensed version for quick reference and additional insights.
 
-## Table of Contents 
-
-[Chapter 1: Setting Up Your Python Environment](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%201%20Setting%20Up%20Your%20Python%20Environment.md)
-
-[Chapter 2: Basic Networking Tools ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%202%20Basic%20Networking%20Tools.md)
