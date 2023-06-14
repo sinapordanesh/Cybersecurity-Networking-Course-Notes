@@ -19,6 +19,6 @@ It is important to note that these notes are not meant to replace the original b
 
 ## Table of Contents 
 
-[Chapter 1: Setting Up Your Python Environment](Black%20Hat%20Python%20Programming%20for%20Hackers%20675108fce2854cacb31c79eef95735c2/Chapter%201%20Setting%20Up%20Your%20Python%20Environment%202905472e48304e7e972001f370bfc1be.md)
+[Chapter 1: Setting Up Your Python Environment](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%201%20Setting%20Up%20Your%20Python%20Environment.md)
 
-[Chapter 2: Basic Networking Tools ](Black%20Hat%20Python%20Programming%20for%20Hackers%20675108fce2854cacb31c79eef95735c2/Chapter%202%20Basic%20Networking%20Tools%20a21c6c3baf92451094439c53b80b5b02.md)
+[Chapter 2: Basic Networking Tools ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%202%20Basic%20Networking%20Tools.md)
