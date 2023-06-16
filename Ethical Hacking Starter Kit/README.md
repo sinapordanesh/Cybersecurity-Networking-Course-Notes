@@ -1,6 +1,8 @@
 # Ethical Hacking Starter Kit Bundle
 These 13 courses will help you start or transition to a career in ethical hacking and pen-testing.
 ![_9b44bb4e-ffe4-4f97-8200-6961d3c18961](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/590181ab-9dec-4f63-b1c5-746ccf1f8c4c)
+<img src="[drawing.jpg](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/590181ab-9dec-4f63-b1c5-746ccf1f8c4c)" alt="drawing" style="width:200px;"/>
+
 ## List of Courses in This Boundle
 
 - [Practical Linux for Pentesting & Bug Bounties](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Practical%20Linux%20for%20Pentesting%20%26%20Bug%20Bounties)
