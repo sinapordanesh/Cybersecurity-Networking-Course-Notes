@@ -1,6 +1,6 @@
 # Ethical Hacking Starter Kit Bundle
 These 13 courses will help you start or transition to a career in ethical hacking and pen-testing.
-<img src="https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/590181ab-9dec-4f63-b1c5-746ccf1f8c4c" alt="drawing" style="width:800px;"/>
+<img src="https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/590181ab-9dec-4f63-b1c5-746ccf1f8c4c" alt="drawing" style="width:400px;"/>
 
 ## List of Courses in This Boundle
 
