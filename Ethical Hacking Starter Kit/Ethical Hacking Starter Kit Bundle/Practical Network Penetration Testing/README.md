@@ -1,4 +1,4 @@
-# 3_Practical Network Penetration Testing
+# Practical Network Penetration Testing
 
 Network penetration testing is a crucial process for identifying vulnerabilities in a network's infrastructure. This type of testing involves simulating an attack on the network to detect weaknesses and flaws that could be exploited by attackers.
 

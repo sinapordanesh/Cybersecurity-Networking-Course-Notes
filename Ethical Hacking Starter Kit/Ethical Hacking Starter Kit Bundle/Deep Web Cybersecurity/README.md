@@ -1,4 +1,4 @@
-# 2_Deep Web Cybersecurity
+# Deep Web Cybersecurity
 
 [2_Importance of the Dark Web and How Dangerous It Is](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Deep%20Web%20Cybersecurity/2_Importance%20of%20the%20Dark%20Web%20and%20How%20Dangerous%20It%20%20d0d211990e6b48158d441cad529689bb.md)
 

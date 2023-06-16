@@ -10,7 +10,7 @@ These 13 courses will help you start or transition to a career in ethical hackin
 
 - [Practical Network Penetration Testing](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Practical%20Network%20Penetration%20Testing)
 
-- [Hands-on Penetration Testing with Netcat](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Hands-on%20Penetration%20Testing%20with%20Netcat)
+- [Hands-on Penetration Testing with Netcat](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Hands-on%20Penetration%20Testing%20with%20Netcat/4_Hands-on%20Penetration%20Testing%20with%20Netcat.md)
 
 - [Session Hijacking and Prevention Techniques](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Session%20Hijacking%20and%20Prevention%20Techniques)
 
@@ -20,12 +20,8 @@ These 13 courses will help you start or transition to a career in ethical hackin
 
 - [Hands-on Linux for DevOps & Cloud Engineers ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Hands-on%20Linux%20for%20DevOps%20%26%20Cloud%20Engineers)
 
-- [Communication with IOT](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Communication%20with%20IOT)
-
 - [Troubleshooting Slow Network with Wireshark ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Troubleshooting%20Slow%20Network%20with%20Wireshark)
 
 - [Beginners Cryptography Demystified ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Beginners%20Cryptography%20Demystified)
-
-- [Jupyter Notebook for Everyone ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Jupyter%20Notebook%20for%20Everyone)
 
 - [Mastering Nuclei with Automation for Pentesting & Bug Bounty](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Mastering%20Nuclei%20with%20Automation%20for%20Pentesting)

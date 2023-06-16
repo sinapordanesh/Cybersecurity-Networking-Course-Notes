@@ -1,11 +1,13 @@
-# 5_Session Hijacking and Prevention Techniques
+# Web Hacker’s Toolbox: Tools Used by Successful Hackers
 
-[1_Understanding What is Session and Hijacking Techniques](5_Session%20Hijacking%20and%20Prevention%20Techniques%207a3c99aae07f460c8c8f8397c13b18b5/1_Understanding%20What%20is%20Session%20and%20Hijacking%20Tech%2017225b80f37f421da5441c4402a8a33b.md)
+This course covers powerful techniques for security testing, including SQL injection detection and exploitation using Sqlmap, leveraging Google Hacking to uncover web application vulnerabilities, performing fuzzing with Burp Suite Intruder for vulnerability detection, and exploiting race conditions with OWASP ZAP. By the end of the course, you'll have a solid understanding of these techniques and their application in modern web application security.
 
-[2_Session Management in Applications ](5_Session%20Hijacking%20and%20Prevention%20Techniques%207a3c99aae07f460c8c8f8397c13b18b5/2_Session%20Management%20in%20Applications%20f185dc155d78475bb0d5c038a6bedd75.md)
+## List of Contents
 
-[3_Hands On - Attacking Web Application Sessions ](5_Session%20Hijacking%20and%20Prevention%20Techniques%207a3c99aae07f460c8c8f8397c13b18b5/3_Hands%20On%20-%20Attacking%20Web%20Application%20Sessions%20ea93ccf1de8b4cc38770825abf7ff29c.md)
+[1_How Hackers Find SQL Injections in Minutes with Sqlmap ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Web%20Hacker%E2%80%99s%20Toolbox%20Tools%20Used%20by%20Successful%20Ha/1_How%20Hackers%20Find%20SQL%20Injections%20in%20Minutes%20with%20%202bbb9c5586cd4096823a073055bf6114.md)
 
-[4_Hands On - Attacking Network Sessions ](5_Session%20Hijacking%20and%20Prevention%20Techniques%207a3c99aae07f460c8c8f8397c13b18b5/4_Hands%20On%20-%20Attacking%20Network%20Sessions%20929205a260ca48fba84f863234704525.md)
+[2_Web Application Security Testing with Google Hacking](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Web%20Hacker%E2%80%99s%20Toolbox%20Tools%20Used%20by%20Successful%20Ha/2_Web%20Application%20Security%20Testing%20with%20Google%20Hac%20800561dd902f41a88d46f87f382fe31e.md)
 
-[5_Prevention Techniques](5_Session%20Hijacking%20and%20Prevention%20Techniques%207a3c99aae07f460c8c8f8397c13b18b5/5_Prevention%20Techniques%20bf9ae12a00664a3c910adfe9d6d4ead2.md)
+[3_Fuzzing with Burp Suit Intruder](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Web%20Hacker%E2%80%99s%20Toolbox%20Tools%20Used%20by%20Successful%20Ha/3_Fuzzing%20with%20Burp%20Suit%20Intruder%20796986fc6c7c44309ce54b23573f8a11.md)
+
+[4_Exploitation Race Conditions with OWASP ZAP](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Ethical%20Hacking%20Starter%20Kit/Ethical%20Hacking%20Starter%20Kit%20Bundle/Web%20Hacker%E2%80%99s%20Toolbox%20Tools%20Used%20by%20Successful%20Ha/4_Exploitation%20Race%20Conditions%20with%20OWASP%20ZAP%2019e0c9be63fb45c4aa5c1e42ea4954ae.md)
