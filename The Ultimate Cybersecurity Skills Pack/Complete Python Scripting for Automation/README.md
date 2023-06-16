@@ -1,7 +1,7 @@
 # Complete Python Scripting for Automation
 
 This course is designed to transform you from a Python beginner to an expert in a seamless and intelligent manner. By diving straight into Python, you will quickly become productive right from the start. Our course ensures that learning Python is effortless, and at present, we primarily focus on server-side automation. However, we have plans to expand the course to include GUI and Web Applications Development in the future.
-----------------------------------------------------------------
+
 ## List of contents
 
 [8_Working with Python Modules ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/The%20Ultimate%20Cybersecurity%20Skills%20Pack/Complete%20Python%20Scripting%20for%20Automation/8_Working%20with%20Python%20Modules.md)
