@@ -19,6 +19,8 @@ Advantages of using these notes:
 
 [Chapter 2: Basic Networking Tools ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%202%20Basic%20Networking%20Tools.md)
 
+[Chapter 3: Writing a Sniffer ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%203%20Writing%20a%20Sniffer.md)
+
 ## Code Repository
 You'll find all codes and .py files, including explenation section by section for each one on the following [repository](https://github.com/sinapordanesh/Python-Scripting-Automation/tree/main/Python%20Programming%20for%20Hackers%20-%20Black%20Hat). 
 
