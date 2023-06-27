@@ -1,4 +1,5 @@
 # Security Automation with Ansible
+![ansible_code](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/a51acba4-2f32-4b6b-a58a-aca6c2f00ed5)
 
 Infrastructures today are complex with multiple components, making effective management challenging. Ansible, an automation engine, helps with provisioning, configuring systems, deploying applications, and more.
 
