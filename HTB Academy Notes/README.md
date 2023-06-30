@@ -1,1 +1,1 @@
-![Hack-The-Box-logo](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/0d5f8204-b2f8-4182-9acd-fdfb3dfc2b4b)
+![image-20201109063341108](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/assets/74850874/a13bc2de-220a-4da7-a244-3b61c9143c9a)
