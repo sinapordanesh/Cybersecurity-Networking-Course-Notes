@@ -2,7 +2,7 @@
 
 ---
 
-[1_****Using Academy Effectively****](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/tree/main/HTB%20Academy%20Notes/Penetration%20Tester%20Path/1_PENETRATION%20TESTING%20PROCESS)
+[1_****Using Academy Effectively****](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/HTB%20Academy%20Notes/Penetration%20Tester%20Path/1_PENETRATION%20TESTING%20PROCESS/1_Using%20Academy%20Effectively.md)
 
 [2_****Background & Preparation****](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/HTB%20Academy%20Notes/Penetration%20Tester%20Path/1_PENETRATION%20TESTING%20PROCESS/2_Background%20%26%20Preparation.md)
 
