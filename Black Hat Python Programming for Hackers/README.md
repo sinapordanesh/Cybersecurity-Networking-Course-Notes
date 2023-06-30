@@ -2,11 +2,13 @@
 
 ## Table of Contents 
 
-[Chapter 1: Setting Up Your Python Environment](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%201%20Setting%20Up%20Your%20Python%20Environment.md)
+- [Chapter 1: Setting Up Your Python Environment](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%201%20Setting%20Up%20Your%20Python%20Environment.md)
 
-[Chapter 2: Basic Networking Tools ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%202%20Basic%20Networking%20Tools.md)
+- [Chapter 2: Basic Networking Tools ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%202%20Basic%20Networking%20Tools.md)
 
-[Chapter 3: Writing a Sniffer ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%203%20Writing%20a%20Sniffer.md)
+- [Chapter 3: Writing a Sniffer ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%203%20Writing%20a%20Sniffer.md)
+
+- [Chapter 4: Owning the Network with Scapy ](https://github.com/sinapordanesh/Cybersecurity-Networking-Course-Notes/blob/main/Black%20Hat%20Python%20Programming%20for%20Hackers/Chapter%204%20Owning%20the%20Network%20With%20Scapy.md)
 
 ## Code Repository
 
